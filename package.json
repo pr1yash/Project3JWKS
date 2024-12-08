@@ -30,8 +30,11 @@
     "sqlite3": "^5.1.7"
   },
   "devDependencies": {
+    "@eslint/js": "^9.16.0",
     "c8": "^10.1.2",
     "chai": "^4.5.0",
+    "eslint": "^9.16.0",
+    "globals": "^15.13.0",
     "mocha": "^10.8.2",
     "nyc": "^17.1.0",
     "supertest": "^7.0.0"
