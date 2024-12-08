@@ -1,4 +1,4 @@
-# JWKS Server with Rate Limiting and Logs
+# Project 3: Bulking up our JWKS server
 
 ## Overview
 This project implements a JSON Web Key Set (JWKS) server with authentication and rate limiting features. It provides:
