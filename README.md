@@ -57,7 +57,7 @@ Automated tests are included to verify the functionality of the server.
 ### Running Tests
 1. Install test dependencies:
    ```bash
-   npm install --save-dev mocha chai supertest
+   npm install --save-dev mocha chai supertest c8
    ```
 2. Run the tests:
    ```bash
